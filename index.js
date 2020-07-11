@@ -9,7 +9,7 @@ btn.addEventListener("click", () => {
     } else if (i == 1) {
         result.textContent = "吉野家";
     } else if (i == 2) {
-        result.textContent = "すきや";
+        result.textContent = "すき家";
     }
     else {
         result.textContent = "なか卯";
